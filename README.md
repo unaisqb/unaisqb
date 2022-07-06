@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Unais U
 - 👀 I’m interested in challenging works
-- 🌱 I’m currently learning Talend
+- 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on any software works
 - 📫 How to reach me ...unaisnohi@gmail.com
 
