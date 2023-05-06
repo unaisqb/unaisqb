@@ -27,8 +27,6 @@ College of Engineering Trivandrum
 ## Core competencies
 
 - Full stack developer
-- Back-end developer
-- MEAN stack developer
 - Data science enthusiast
 
 ---
